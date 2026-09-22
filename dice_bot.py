@@ -2,7 +2,7 @@ import telebot
 import random
 import os
 
-TOKEN = os.environ.get('8905864437:AAHsmIv4z24OqdUoVQCK3fAYeesiALDdgYs')
+TOKEN = '8905864437:AAHsmIv4z24OqdUoVQCK3fAYeesiALDdgYs'
 bot = telebot.TeleBot(TOKEN)
 
 
